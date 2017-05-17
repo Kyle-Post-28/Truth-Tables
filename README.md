@@ -1,0 +1,2 @@
+# Truth-Tables
+In practicing Zed Shaw's "Learn Python the Hard Way" book I came across a chapter dedicated to truth tables and the different statement words and operators that can affect whether something is true or false. This is used throughout programming, not just python. The assignment was to memorize them, but I figured it would be more fun to create an html page with all the tables so anyone could visit them and check them out. Simple and to the point. Enjoy!
